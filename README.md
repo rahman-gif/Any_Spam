@@ -13,7 +13,7 @@ It is because this tools create for what OS have a cursor but SmartPhone not hav
 
 ## Installation For Linux
 ```bash
-git clone https://github.com/rahman-gif/Any_Spam
+git clone https://github.com/rahman-gif/Any_Spam.git
 cd Any_spam
 python3 -m pip install -r requirements.txt
 nano word.txt
