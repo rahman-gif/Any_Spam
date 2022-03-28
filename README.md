@@ -19,7 +19,7 @@ python3 -m pip install -r requirements.txt
 nano word.txt
 ```
 
-* in word.txt you have type what you want to spam
+* in word.txt you must type what you want to spam
 
 ## For Run
 ```bash
